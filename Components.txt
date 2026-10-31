@@ -1,0 +1,10 @@
+
+1. ESP32 Development Board
+2. Soil Moisture Sensor
+3. Soil Moisture Sensor Module
+4. 5V Relay Module
+5. Mini DC Water Pump
+6. Jumper Wires
+7. Breadboard
+8. Power Supply / Battery
+9. USB Cable
