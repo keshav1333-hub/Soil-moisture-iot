@@ -1,0 +1,17 @@
+
+SOIL MOISTURE SENSOR TO ESP32
+
+VCC  -> 3.3V
+GND  -> GND
+AO   -> GPIO 34
+
+RELAY MODULE TO ESP32
+
+VCC  -> 5V (as supported by module)
+GND  -> GND
+IN   -> GPIO 26
+
+WATER PUMP
+
+Pump is connected through relay contacts.
+External power supply is used for the pump.
